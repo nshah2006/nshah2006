@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nirmal 👋</h1>
+<h1 align="center">Hi, I'm Nirmal</h1>
 <p align="center">
   CS @ UT Dallas ('28) · Software Engineering Intern @ Verizon<br/>
   I build full stack products and AI tools, and I'm heading toward ML engineering.
